@@ -1,0 +1,5 @@
+click
+numpy
+pyfftw
+git+https://github.com/frederikhermans/imageframer#egg=imageframer
+git+https://github.com/frederikhermans/rscode#egg=rscode
